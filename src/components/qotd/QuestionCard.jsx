@@ -20,7 +20,7 @@ export default function QuestionCard({ question }) {
 
       {/* TITLE */}
       <div className="flex items-center justify-between">
-        <h2 className="text-2xl font-semibold text-white">
+        <h2 className="text-xl md:text-2xl font-semibold text-white">
           {question.title}
         </h2>
 

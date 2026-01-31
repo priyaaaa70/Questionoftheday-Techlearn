@@ -33,7 +33,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen max-w-7xl mx-auto px-6 py-4">
+    <div className="min-h-screen max-w-7xl mx-auto px-4 md:px-6 py-4">
       <Header />
 
       <main className="mt-10">
